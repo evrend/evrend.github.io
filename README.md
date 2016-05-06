@@ -51,5 +51,5 @@ Not: Benim kullandığım tema [jekyllthemes.org][jekyllthemes] sitesindeki [jek
 [users]: https://github.com/evrend
 [organizations]:https://github.com/herkod
 [projects]:https://github.com/evrend/evrend.github.io
-[projects-commits]:https://github.com/evrend/evrend.github.io
+[projects-commits]:https://github.com/evrend/evrend.github.io/commits/master
 [jekyllthemes]:http://jekyllthemes.org/

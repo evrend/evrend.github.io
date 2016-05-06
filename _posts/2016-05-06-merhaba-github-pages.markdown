@@ -49,11 +49,13 @@ git push origin master
 
 Yukarıdaki adımlar hatasız yapıldığı taktirde, kullanıcıadınız.github.io adresinden github sayfanıza giriş yaparak sayfanıza göz atabilirsiniz. sayfam üzerinde yaptığım değişiklikleri görmek için [yaptığım commitleri][projects-commits] incelemeniz yeterlidir. Blog yazıları markdown ile nasıl yazılır diye merak ediyorsanız, sayfamın reposunda post klasörü altındaki postları inceleyebilirsiniz.
 
+Not: Benim kullandığım tema [jekyllthemes.org][jekyllthemes] sitesindeki [jekyll-uno](http://joshgerdes.com/jekyll-uno/) temasıdır.
+
 Bir daha ki yazıya kadar hoşça kalın.
 
 [github-pages]:https://pages.github.com/
 [users]: https://github.com/evrend
 [organizations]:https://github.com/herkod
 [projects]:https://github.com/evrend/evrend.github.io
-[projects-commits]:https://github.com/evrend/evrend.github.io
+[projects-commits]:https://github.com/evrend/evrend.github.io/commits/master
 [jekyllthemes]:http://jekyllthemes.org/
