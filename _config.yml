@@ -3,7 +3,7 @@ title: Evren DOĞAN
 description: 'Evren DOĞAN - Kişisel Bloğu'
 url: 'https://evrend.github.io/'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-63648079-2'
 disqus_shortname: 'evrendgithubio'
 
 author:
