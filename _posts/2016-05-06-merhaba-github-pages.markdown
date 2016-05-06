@@ -2,7 +2,7 @@
 title:  "Merhaba Github Pages!"
 date:   2016-05-06 00:00:00
 categories: [github]
-tags: [github, github-pages, github-blog, github-blog-olusturma]
+tags: [github, jekyll]
 ---
 
 Github Pages altyapısını ve desteklediği Jekyll Blog teknolojisini kullanarak nasıl kendi bloğunuzu oluşturabilirsiniz ondan bahsedeceğim.
