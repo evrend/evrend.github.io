@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: Kategoriler
-permalink: /kategoriler/
+permalink: /categories/
 ---

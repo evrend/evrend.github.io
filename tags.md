@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: Etiketler
-permalink: /etiketler/
+permalink: /tags/
 ---
