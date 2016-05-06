@@ -2,7 +2,7 @@
 title:  "Merhaba Github Pages!"
 date:   2016-05-06 11:53:23
 categories: [github]
-tags: [github, GitHub Pages, Github Blog]
+tags: [github, github-pages, github-blog, github-blog-kurma]
 ---
 
 ###Merhaba Dünya!
